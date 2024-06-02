@@ -1,0 +1,2 @@
+# RugDotFun
+A Memecoin Factory
